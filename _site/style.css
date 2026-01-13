@@ -1,0 +1,35 @@
+.ascii-art {
+    font-family: monospace;
+    white-space: pre;
+    overflow-x: auto;
+}
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: monospace;
+}
+a {
+    color: #000000;
+}
+p {
+    font-family: monospace;
+    white-space: pre;
+    overflow-x: auto;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+}
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1a1a1a;
+        color: #ffffff;
+    }
+    a {
+        color: #ffffff;
+    }
+}
+
