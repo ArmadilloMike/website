@@ -12,8 +12,17 @@ body {
 a {
     color: #000000;
 }
+p {
+    font-family: monospace;
+    white-space: pre;
+    overflow-x: auto;
+}
 
-
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+}
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #1a1a1a;
@@ -23,8 +32,4 @@ a {
         color: #ffffff;
     }
 }
-p {
-    font-family: monospace;
-    white-space: pre;
-    overflow-x: auto;
-}
+
