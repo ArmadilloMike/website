@@ -1,2 +1,5 @@
 title: armadillomike.dev
 description: armadillomike's website
+collections:
+  projects:
+    output: true
