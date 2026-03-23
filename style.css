@@ -32,4 +32,12 @@ p {
         color: #ffffff;
     }
 }
-
+.hackvertisement iframe {
+    display: block;
+    width: 726px;
+    max-width: 100%;
+    border: none;
+    aspect-ratio: 722 / 84;
+    margin-left: 0;
+    margin-right: auto;
+}
