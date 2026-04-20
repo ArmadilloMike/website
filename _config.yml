@@ -3,3 +3,4 @@ description: armadillomike's website
 collections:
   projects:
     output: true
+include: [".well-known"]
