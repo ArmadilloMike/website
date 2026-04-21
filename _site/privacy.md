@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /terms
+---
 # Privacy Policy for ArmadilloMike.Dev
 
 **Effective Date**: April 20, 2026

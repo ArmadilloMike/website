@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /privacy
+---
 # Terms and Conditions for ArmadilloMike.Dev
 
 **Effective Date:** April 20, 2026
