@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /terms
+permalink: /privacy
 ---
 # Privacy Policy for ArmadilloMike.Dev
 
