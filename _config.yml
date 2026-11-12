@@ -1,6 +1,1 @@
-title: armadillomike.dev
-description: armadillomike's website
-collections:
-  projects:
-    output: true
-include: [".well-known"]
+theme: minimal-mistakes-jekyll
