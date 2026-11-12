@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="434b1f20-0a6b-45f9-9f61-8cde86b00463" name="Changes" comment="setup jekyll">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/armadillomike-dot-dev/armadillomike-dot-dev.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_site/armadillomike-dot-dev/armadillomike-dot-dev.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="rewrite" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/armadillomike-dot-dev" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ArmadilloMike&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ArmadilloMike/website.git&quot;,
+    &quot;accountId&quot;: &quot;506ae1b1-5205-4030-819d-d5ca794d52c1&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000000003167" />
+      <entry key="MS500" value="1.0054583371881503" />
+      <entry key="S2" value="1.4804067067205855" />
+      <entry key="S5" value="2.395893766418594" />
+      <entry key="S10" value="3.0352077751995252" />
+      <entry key="S30" value="4.454399753233071" />
+      <entry key="S60" value="9.820308274967738" />
+      <entry key="M2" value="20.78733266343108" />
+      <entry key="M5" value="41.621273645976856" />
+      <entry key="M10" value="60.83109811256004" />
+      <entry key="M15" value="71.18724625669016" />
+      <entry key="M30" value="84.82101608419191" />
+      <entry key="H1" value="93.24513934949435" />
+      <entry key="H2" value="97.94218459054733" />
+      <entry key="H4" value="100.42410665098458" />
+      <entry key="D1" value="102.56399163602177" />
+      <entry key="W1" value="102.93754696113007" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="4.291757525210605E-6" />
+      <entry key="MS500" value="0.08443588028347734" />
+      <entry key="S2" value="0.5390533618108038" />
+      <entry key="S5" value="0.7810030026030508" />
+      <entry key="S10" value="0.8837437426104079" />
+      <entry key="S30" value="0.9596409763565222" />
+      <entry key="S60" value="0.9796126664945295" />
+      <entry key="M2" value="0.9897538413638662" />
+      <entry key="M5" value="0.9958888691880824" />
+      <entry key="M10" value="0.9979423175655406" />
+      <entry key="M15" value="0.9986277408288261" />
+      <entry key="M30" value="0.9993136348658644" />
+      <entry key="H1" value="0.9996567585255773" />
+      <entry key="H2" value="0.9998283645334219" />
+      <entry key="H4" value="0.9999141785840533" />
+      <entry key="D1" value="0.9999856959191684" />
+      <entry key="W1" value="0.9999979565473541" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.6029039138876977" />
+      <entry key="MS500" value="0.9135694936791531" />
+      <entry key="S2" value="1.6600633719663822" />
+      <entry key="S5" value="2.902822942887547" />
+      <entry key="S10" value="3.7459906974830357" />
+      <entry key="S30" value="5.344315309080444" />
+      <entry key="S60" value="10.759620227193102" />
+      <entry key="M2" value="21.75299196654253" />
+      <entry key="M5" value="42.60422719829179" />
+      <entry key="M10" value="61.820981813046814" />
+      <entry key="M15" value="72.1799396944751" />
+      <entry key="M30" value="85.8169991143772" />
+      <entry key="H1" value="94.24302021411404" />
+      <entry key="H2" value="98.94109443471477" />
+      <entry key="H4" value="101.42355352719103" />
+      <entry key="D1" value="103.56389829572477" />
+      <entry key="W1" value="103.9375335980905" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3M1IjnGw3DO1nCmNgbbYhuD6E8E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Shell Script.Start Server.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;rewrite&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Start Server" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="bundle exec jekyll server --livereload" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="powershell.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="false" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="434b1f20-0a6b-45f9-9f61-8cde86b00463" name="Changes" comment="" />
+      <created>1794511784506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794511784506</updated>
+      <workItem from="1794511785508" duration="945000" />
+      <workItem from="1794512765735" duration="1337000" />
+    </task>
+    <task id="LOCAL-00001" summary="setup jekyll">
+      <option name="closed" value="true" />
+      <created>1794513700311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794513700311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setup jekyll" />
+    <option name="LAST_COMMIT_MESSAGE" value="setup jekyll" />
+  </component>
+</project>
